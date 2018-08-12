@@ -1,0 +1,13 @@
+[12-Jun-2018 14:14:29 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/cleanwave/public_html/planner/app/Http/Controllers/TaskController.php on line 52
+[13-Jun-2018 07:43:17 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/cleanwave/public_html/planner/app/Http/Controllers/TaskController.php on line 52
+[13-Jun-2018 09:00:40 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/cleanwave/public_html/planner/app/Http/Controllers/TaskController.php on line 52
+[13-Jun-2018 09:01:26 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/cleanwave/public_html/planner/app/Http/Controllers/TaskController.php on line 52
+[13-Jun-2018 09:01:33 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/cleanwave/public_html/planner/app/Http/Controllers/TaskController.php on line 52
+[13-Jun-2018 09:02:18 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/cleanwave/public_html/planner/app/Http/Controllers/TaskController.php on line 52
+[13-Jun-2018 09:02:20 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/cleanwave/public_html/planner/app/Http/Controllers/TaskController.php on line 52
+[13-Jun-2018 09:02:41 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/cleanwave/public_html/planner/app/Http/Controllers/TaskController.php on line 52
+[13-Jun-2018 09:02:51 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/cleanwave/public_html/planner/app/Http/Controllers/TaskController.php on line 52
+[13-Jun-2018 13:16:56 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/cleanwave/public_html/planner/app/Http/Controllers/TaskController.php on line 52
+[13-Jun-2018 13:17:29 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/cleanwave/public_html/planner/app/Http/Controllers/TaskController.php on line 52
+[13-Jun-2018 13:17:38 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/cleanwave/public_html/planner/app/Http/Controllers/TaskController.php on line 52
+[13-Jun-2018 13:18:59 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/cleanwave/public_html/planner/app/Http/Controllers/TaskController.php on line 52

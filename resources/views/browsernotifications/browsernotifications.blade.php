@@ -1,0 +1,1 @@
+<script src="{{{ url("js/browsernotifications.js") }}}?version={{{ config('browsernotifications.version') }}}"></script>
